@@ -1,9 +1,9 @@
 {
-  "name": "glob-watcher",
+  "name": "@sapics/glob-watcher",
   "description": "Watch globs",
-  "version": "1.0.0",
-  "homepage": "http://github.com/wearefractal/glob-watcher",
-  "repository": "git://github.com/wearefractal/glob-watcher.git",
+  "version": "1.0.1",
+  "homepage": "http://github.com/sapics/glob-watcher",
+  "repository": "git://github.com/sapics/glob-watcher.git",
   "author": "Fractal <contact@wearefractal.com> (http://wearefractal.com/)",
   "main": "./index.js",
   "files": [
@@ -11,7 +11,7 @@
     "lib"
   ],
   "dependencies": {
-    "gaze": "^0.5.1"
+    "gaze": "^1.1.2"
   },
   "devDependencies": {
     "mocha": "^2.0.1",
